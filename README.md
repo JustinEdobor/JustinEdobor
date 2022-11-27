@@ -8,7 +8,7 @@ Frontend Developer
 I create successful websites that are fast, responsive, easy to use and built with best practices
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [jufixconnect.netlify.app](http://www.jufixconnect.netlify.app)
+* 🖥️  See my portfolio at [justincodes.netlify.app](https://justincodes.netlify.app)
 * ✉️  You can contact me at [grant.f.justin@gmail.com](mailto:grant.f.justin@gmail.com)
 * 🧠  I'm learning Node js
 
