@@ -9,7 +9,7 @@ I create successful websites that are fast, responsive, easy to use and built wi
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [justincodes.netlify.app](https://justincodes.netlify.app)
-* ✉️  You can contact me at [grant.f.justin@gmail.com](mailto:grant.f.justin@gmail.com)
+* ✉️  You can contact me at [justinedobor77@gmail.com](mailto:justinedobor77@gmail.com)
 * 🧠  I'm learning Node js
 
 <a href="https://www.twitter.com/JustinEdobor" target="_blank" rel="noreferrer"><img
